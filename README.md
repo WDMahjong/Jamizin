@@ -1,1 +1,1 @@
-# Jamizin
+# jamizin
